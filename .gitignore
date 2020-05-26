@@ -18,3 +18,9 @@ log*
 
 #node
 node_modules
+
+model/src/main/db/templateDB.properties
+model/src/main/db/templateDB.lck
+model/src/main/db/templateDB.log
+model/src/main/db/templateDB.script
+
